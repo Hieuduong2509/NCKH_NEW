@@ -1,0 +1,48 @@
+[
+    {
+      "type": "Hard",
+      "name": "Instructor Conflict",
+      "description": "An instructor cannot teach two courses at the same time_slot."
+    },
+    {
+      "type": "Hard",
+      "name": "Room Capacity",
+      "description": "No rooms can be assigned beyond their room_capacity."
+    },
+    {
+      "type": "Hard",
+      "name": "Room Conflict",
+      "description": "No rooms can be assigned to multiple courses at the same time_slot."
+    },
+    {
+      "type": "Hard",
+      "name": "Room Type",
+      "description": "Courses must be assigned according to their required room_type."
+    },
+    {
+      "type": "Hard",
+      "name": "Instructor Availability",
+      "description": "A course must be scheduled at a time_slot where its assigned instructor is available (based on their available_times data)."
+    },
+    {
+      "type": "Hard",
+      "name": "Room Availability",
+      "description": "A course must be scheduled at a time_slot where the assigned room is available (based on its available_times data)."
+    },
+    {
+      "type": "Hard",
+      "name": "Instructor Daily Load",
+      "description": "An instructor cannot be assigned more courses per day than their max_courses_per_day which is always 4."
+    },
+    {
+      "type": "Hard",
+      "name": "Valid Room ID",
+      "description": "Assigned room_id must be one of the valid room_id provided in the room data."
+    },
+    {
+      "type": "Hard",
+      "name": "Intra-Semester Conflict",
+      "description": "Courses assigned to the same academic semester must not overlap in time, regardless of student enrollment."
+    }
+  ]
+  

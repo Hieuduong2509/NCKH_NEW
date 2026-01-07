@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-01-05T23:30:03.217671",
+  "type": "MILESTONE",
+  "data": {
+    "summary": "--- Fixer Agent Started ---"
+  }
+}
+---
+{
+  "timestamp": "2026-01-05T23:30:03.218672",
+  "type": "FATAL_ERROR",
+  "data": {
+    "summary": "Fixer failed: Missing static data (constraints / instructors / rooms / prompt)."
+  }
+}
+---

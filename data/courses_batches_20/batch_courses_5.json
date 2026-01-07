@@ -1,0 +1,102 @@
+[
+    {
+        "course_id": "502051-8-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I113",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-8-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I113",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502061-1-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I169",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502061-1-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I169",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502061-3-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I140",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502061-3-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I169",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502061-5-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 20,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I138",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-3-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 19,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I180",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-5-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 19,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I111",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502061-6-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 17,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I140",
+        "time_slot": "<>",
+        "room_id": "<>"
+    }
+]

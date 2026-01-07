@@ -1,0 +1,226 @@
+[
+    {
+        "course_id": "502061-5-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 41,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I140",
+        "time_slot": "2-4",
+        "room_id": "B201",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502049-1-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 40,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I113",
+        "time_slot": "2-4",
+        "room_id": "B202"
+    },
+    {
+        "course_id": "502051-7-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 40,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I198",
+        "time_slot": "2-4",
+        "room_id": "B206-A"
+    },
+    {
+        "course_id": "502061-1-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 40,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I169",
+        "time_slot": "2-4",
+        "room_id": "B206-B",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502061-3-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 40,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I169",
+        "time_slot": "2-4",
+        "room_id": "B208",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502061-6-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 34,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I140",
+        "time_slot": "2-4",
+        "room_id": "B209",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502045-2-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 33,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I139",
+        "time_slot": "2-4",
+        "room_id": "B210"
+    },
+    {
+        "course_id": "502045-2-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 33,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I139",
+        "time_slot": "3-1",
+        "room_id": "A503"
+    },
+    {
+        "course_id": "502045-4-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 31,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I182",
+        "time_slot": "3-1",
+        "room_id": "A505",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502046-6-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 31,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I111",
+        "time_slot": "3-1",
+        "room_id": "A508",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502051-13-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 31,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I198",
+        "time_slot": "3-1",
+        "room_id": "A510"
+    },
+    {
+        "course_id": "502045-5-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I182",
+        "time_slot": "3-1",
+        "room_id": "A502",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502046-5-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I111",
+        "time_slot": "3-1",
+        "room_id": "A504",
+        "hard_violation_types": [
+            "Instructor Conflict"
+        ]
+    },
+    {
+        "course_id": "502047-2-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I101",
+        "time_slot": "3-1",
+        "room_id": "A507"
+    },
+    {
+        "course_id": "502047-2-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I101",
+        "time_slot": "3-2",
+        "room_id": "A502"
+    },
+    {
+        "course_id": "502047-3-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I177",
+        "time_slot": "3-1",
+        "room_id": "A509"
+    },
+    {
+        "course_id": "502047-3-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I177",
+        "time_slot": "3-2",
+        "room_id": "A504"
+    },
+    {
+        "course_id": "502051-10-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I192",
+        "time_slot": "3-1",
+        "room_id": "A602"
+    },
+    {
+        "course_id": "502051-10-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I192",
+        "time_slot": "3-2",
+        "room_id": "A602"
+    },
+    {
+        "course_id": "502051-11-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I147",
+        "time_slot": "3-1",
+        "room_id": "A605"
+    }
+]

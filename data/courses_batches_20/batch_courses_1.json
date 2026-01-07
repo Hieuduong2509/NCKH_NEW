@@ -1,0 +1,202 @@
+[
+    {
+        "course_id": "502045-4-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I182",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-6-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I172",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502047-2-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I177",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502047-3-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I177",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502049-8-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I113",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502049-9-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I113",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-10-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I192",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-11-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I173",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-12-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I173",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-13-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I198",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502052-4-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 60,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I103",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502045-5-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 54,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I182",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-5-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 49,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I180",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-2-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 46,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I116",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-1-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 46,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I104",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-5-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 43,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I104",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-1-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 41,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I125",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-3-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 41,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I116",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502049-7-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 41,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I113",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-6-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 41,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I104",
+        "time_slot": "<>",
+        "room_id": "<>"
+    }
+]

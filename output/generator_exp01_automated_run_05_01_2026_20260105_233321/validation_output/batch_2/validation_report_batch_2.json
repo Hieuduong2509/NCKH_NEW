@@ -1,0 +1,30 @@
+{
+    "source_file": "C:\\1study\\PROJECTS\\NCKHSV_V2\\uctp-gemini-main - v2\\output\\generator_exp01_automated_run_05_01_2026_20260105_233321\\working_schedules\\batch_2.json",
+    "total_unique_courses_violating": 8,
+    "violations_details": {
+        "502061-5-0": [
+            "Instructor Conflict"
+        ],
+        "502061-6-0": [
+            "Instructor Conflict"
+        ],
+        "502061-1-0": [
+            "Instructor Conflict"
+        ],
+        "502061-3-0": [
+            "Instructor Conflict"
+        ],
+        "502045-4-2": [
+            "Instructor Conflict"
+        ],
+        "502045-5-2": [
+            "Instructor Conflict"
+        ],
+        "502046-6-1": [
+            "Instructor Conflict"
+        ],
+        "502046-5-1": [
+            "Instructor Conflict"
+        ]
+    }
+}

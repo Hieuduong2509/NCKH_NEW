@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-01-05T23:30:03.210150",
+  "type": "MILESTONE",
+  "data": {
+    "summary": "--- Generator Agent Started ---"
+  }
+}
+---
+{
+  "timestamp": "2026-01-05T23:30:03.213671",
+  "type": "FATAL_ERROR",
+  "data": {
+    "summary": "Generator failed: Missing static data files (constraints / rooms / prompt)."
+  }
+}
+---

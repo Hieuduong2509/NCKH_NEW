@@ -1,0 +1,37 @@
+--- Generator Run Report ---
+Date: 2026-01-05T23:41:12.188608
+Model: gemini-2.5-flash
+Total Duration: 470.95s
+
+--- Global Totals ---
+Batches Processed: 5
+Successful Batches: 3
+Total API Calls: 4.0
+Total Tokens: 85459 (In: 40216, Out: 2342, Think: 42901)
+
+--- Per Batch Details ---
+Batch 1: Success
+  Calls: 2.0
+  Duration: 76.98s
+  Tokens -> In: 11408 | Out: 758 | Think: 8144 | Total: 20310
+------------------------------
+Batch 2: Success
+  Calls: 1.0
+  Duration: 100.88s
+  Tokens -> In: 13319 | Out: 597 | Think: 22935 | Total: 36851
+------------------------------
+Batch 3: Success
+  Calls: 1.0
+  Duration: 57.78s
+  Tokens -> In: 15489 | Out: 987 | Think: 11822 | Total: 28298
+------------------------------
+Batch 4: Failed
+  Calls: 0
+  Duration: 0.00s
+  Tokens -> In: 0 | Out: 0 | Think: 0 | Total: 0
+------------------------------
+Batch 5: Failed
+  Calls: 0
+  Duration: 0.00s
+  Tokens -> In: 0 | Out: 0 | Think: 0 | Total: 0
+------------------------------

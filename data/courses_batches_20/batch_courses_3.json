@@ -1,0 +1,202 @@
+[
+    {
+        "course_id": "502051-11-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I147",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-12-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I193",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-12-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I193",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502052-4-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I133",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502052-4-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 30,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I133",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502045-4-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 29,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I182",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-6-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 29,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I111",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-13-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 29,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I198",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-9-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 28,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I156",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-9-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 28,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I156",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502045-3-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 27,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I156",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502045-3-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 27,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I156",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502050-4-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 26,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I187",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502046-2-2",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 25,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I180",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502052-1-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 25,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I103",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502052-1-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 25,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I103",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502045-5-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 24,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I182",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-3-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 24,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I104",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-3-1",
+        "course_type": "Lab",
+        "required_room_type": "Lab",
+        "num_students": 24,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I104",
+        "time_slot": "<>",
+        "room_id": "<>"
+    },
+    {
+        "course_id": "502051-14-0",
+        "course_type": "Lecture",
+        "required_room_type": "Lecture Hall",
+        "num_students": 24,
+        "duration": "2.5 hours",
+        "assigned_instructor": "I156",
+        "time_slot": "<>",
+        "room_id": "<>"
+    }
+]
